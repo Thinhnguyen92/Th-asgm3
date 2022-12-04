@@ -1,0 +1,19 @@
+.new-text {
+  align-content: center;
+  background-color: #f7f7f7;
+  color: #808080;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.new-text-1 {
+  width: 50%;
+  background-color: #f7f7f7;
+}
+.new-text-2 {
+  width: 50%;
+  background-color: rgba(169, 169, 169, 0.068);
+}
+.new-list {
+  list-style: none;
+  padding-left: 0px;
+}
